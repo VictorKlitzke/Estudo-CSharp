@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppQuantidade.MainPage"
+             Background="#D9D9D9">
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Spacing="23">
+        <Label x:Name="QTD" Text="Quantidade" TextColor="Black" FontSize="40" FontFamily="Segoe UI" FontAttributes="Bold" HorizontalOptions="Center" Margin="23" />
+        <Label x:Name="LBQauntidade"  Text="1" TextColor="Black" HorizontalTextAlignment="Center" FontSize="25" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="23">
+            <Button Text="+" FontSize="30" HorizontalOptions="Center" BorderWidth="1" BorderColor="#487AA1" class="X:Mais" Clicked="Button_Mais"/>
+            <Button Text="-" FontSize="40" HorizontalOptions="Center" BorderColor="#487AA1" BorderWidth="1" x:Name="Menos" Clicked="Button_Menos"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

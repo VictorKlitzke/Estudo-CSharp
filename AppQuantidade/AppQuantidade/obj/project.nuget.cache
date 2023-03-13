@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjSHbeRPhR0frfC4BB080qmdRrZssAnTF5lrv/8FdwdLljfq+rPgxXPVLhZQn/Qks/lZrWpxOsxt4wi9oR/PrA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Estudos\\C#\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade\\AppQuantidade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
